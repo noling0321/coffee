@@ -10,9 +10,9 @@
 <h3>지점별 매출 현황</h3>
 <table border=1>
 	<tr>
-		<td>피자 코드</td>
-		<td>피자 명</td>
-		<td>총매출액</td>
+		<td>상품 코드</td>
+		<td>상품 명</td>
+		<td>상품별 판매액</td>
 	</tr>
 <%
 	try {
